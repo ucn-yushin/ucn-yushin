@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm UCN 🐍
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=YushinOgasawara" />
 </p>
@@ -10,6 +10,13 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YushinOgasawara&theme=onedark&column=8
 )](https://github.com/ryo-ma/github-profile-trophy)
+
+## 技術スタック
+| category   | skill |
+| ---------- | ----- |
+| **機械学習** | <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"> |
+| **競技プログラミング** | <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"> <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"> |
+
 
 <!--
 **YushinOgasawara/YushinOgasawara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
