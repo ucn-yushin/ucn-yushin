@@ -52,6 +52,8 @@
 ## Work
 
 - GCI 2024 Winter 修了
+- 大規模言語モデル基礎 Deep Learning応用講座 2025 Autumn 修了
+
 - FIT2025 登壇：「視覚的複雑度と解釈要因の抽出」
 - Hylable インターン (2025/10/3~)
 
