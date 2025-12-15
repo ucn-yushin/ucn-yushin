@@ -51,9 +51,9 @@
 
 ## Work
 
-- GCI 2024 Winter 修了
-- 大規模言語モデル基礎 Deep Learning応用講座 2025 Autumn 修了
+- [GCI 2024 Winter](https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2024-winter) 修了
+- [大規模言語モデル基礎 Deep Learning応用講座 2025 Autumn](https://weblab.t.u-tokyo.ac.jp/large-language-model/) 修了
 
-- FIT2025 登壇：「視覚的複雑度と解釈要因の抽出」
-- Hylable インターン (2025/10/3~)
+- FIT2025 第24回情報科学技術フォーラム 登壇 (J-035)：「[グラフ読解における視覚的複雑度と解釈要因の抽出](https://www.ipsj.or.jp/event/fit/fit2025/abstract/data/html/program/j.html)」
+- [Hylable](https://hylable.com/) インターン (2025/10/3~)
 
