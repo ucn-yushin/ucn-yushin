@@ -11,7 +11,7 @@
   <img src="https://github-profile-trophy-psi-five.vercel.app/?username=ucn-yushin&rank=-?&theme=darkhub"/>
 </div>
 
-## Organizations
+## Organization
 
 <div align="left">
   <a href="https://blog.nutmeg.cloud/" title="NUTMEG Blog">
